@@ -2,5 +2,9 @@
   "bracketSpacing": true,
   "semi": true,
   "trailingComma": "all",
-  "singleQuote": true
+  "singleQuote": true,
+  "svelteSortOrder": "styles-scripts-markup",
+  "svelteStrictMode": true,
+  "svelteBracketNewLine": true,
+  "svelteAllowShorthand": false
 }
